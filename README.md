@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 Mathamatician graduated from ELTE.
 - 🔭 I’m currently working on extending VAEs with a contrast dependent scaling variable, enabling a more invariant representation.
 - 🏢 Wigner CSNL
