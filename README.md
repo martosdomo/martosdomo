@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on extending VAEs with a contrast dependent scaling variable, enabling a more invariant representation.
+- 🏢 Wigner CSNL
